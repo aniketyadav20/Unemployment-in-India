@@ -109,6 +109,8 @@ Let's see an [Example](https://github.com/aniketyadav20/Unemployment-in-India/bl
  alt="Logo" width="900" height="400">
 </p>
 In this above video, we can see that it is the plot between 'Estimated Uneployment Rate' and 'States', and easily identify the outliers.
+There are lots of graph in my code to identify the insights in the dataset. 
+
 
 
 
